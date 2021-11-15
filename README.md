@@ -1,6 +1,6 @@
 # Module 14 Challenge Tech Blog (Model View Controller)
 
-### A CMS-style blog site where developers can publish their blog posts and comment on other developer's posts.
+### A CMS-style blog site where developers can publish and comment on blog posts.
 
 # Tools
 
@@ -93,3 +93,9 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
+
+# Mock-up
+
+![image](https://user-images.githubusercontent.com/87884472/141730108-09991f28-3ee3-4bae-a7dd-b4b2c267fa38.png)
+
+
